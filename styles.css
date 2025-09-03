@@ -1,0 +1,19 @@
+ body {
+  background-color: indigo;
+}
+h1 {
+   color: orange;
+}
+
+img {
+   width: 50%;
+}
+
+#robo {
+    width: 30%;
+}
+
+class texto_colorido {
+    color: yellow;
+    font-weight: bold;
+}
